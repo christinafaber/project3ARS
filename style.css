@@ -1,7 +1,5 @@
 /* CSS files add styling rules to your content */
 
-
-
 body {
   font-family: palatino;
   margin: 2em;
@@ -18,4 +16,5 @@ h1 {
   background-color: #6A3937;
   text-shadow: 2px 2px black;
 }
+
 
