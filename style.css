@@ -1,0 +1,20 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: palatino;
+  margin: 2em;
+  background-color: #D7BBA8;
+  color: #3B0D11;
+  text-align: center;
+  font-size: 175%;
+}
+
+h1 {
+  font-style: italic;
+  color: #E26D5A;
+  text-align: center;
+  background-color: #6A3937;
+  text-shadow: 2px 2px black;
+}
+
+
